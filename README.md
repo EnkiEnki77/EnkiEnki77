@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EnkiEnki77
+- 👋 Hi, my name is Austin 
 - 👀 I’m interested in Front End development, Ui/Ux design, and illustration!
-- 🌱 I’m currently learning HTML, CSS, and JS
+- 🌱 I’m a JavaScript developer, my framework of choice is React JS
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me layman212@gmail.com
 
