@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Austin 
-- 👀 I’m interested in Front End development, Ui/Ux design, and illustration!
+- 👋 Hi, my name is Enki. 
+- 👀 I’m interested in Front End development and Ui/Ux design!
 - 🌱 I’m a JavaScript developer, my framework of choice is React JS
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me layman212@gmail.com
